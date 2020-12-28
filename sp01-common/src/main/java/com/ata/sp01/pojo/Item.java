@@ -9,7 +9,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Item {
 	
-	private Integer id;
-	private String name;
-	private Integer number;
+	private Integer id; //用户id
+	private String name; //名字
+	private Integer number; 
+	
 }
